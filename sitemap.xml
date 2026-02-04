@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/add-PDF/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/add-PDF/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/add-PDF/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/authorize/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/authorize/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/authorize/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/configure-access-rights/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/configure-access-rights/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/configure-access-rights/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/configure-process/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/configure-process/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/configure-process/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/create-process/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/create-process/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/create-process/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/create-register/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/create-register/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/create-register/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/liquio/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/liquio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/liquio/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/monitoring-and-support/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/monitoring-and-support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/monitoring-and-support/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/save-data-registry/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/save-data-registry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/save-data-registry/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/additional-settings.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/additional-settings.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/additional-settings.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/authorize.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/authorize.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/authorize.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/create-event-entry/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/create-event-entry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/create-event-entry/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/editing-schema-json.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/editing-schema-json.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/editing-schema-json.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/export-registry-key.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/export-registry-key.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/export-registry-key.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/import-from-XLSX.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/import-from-XLSX.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/import-from-XLSX.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/import-registry-key.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/import-registry-key.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/import-registry-key.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/key-settings.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/key-settings.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/key-settings.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/monitoring-and-support.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/monitoring-and-support.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/monitoring-and-support.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/archive/setting-access-rights.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/setting-access-rights.archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/setting-access-rights.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/add-PDF/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/add-PDF/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/add-PDF/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/authorize/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/authorize/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/authorize/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/configure-access-rights/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/configure-access-rights/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/configure-access-rights/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/configure-process/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/configure-process/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/configure-process/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/create-process/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/create-process/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/create-process/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/create-register/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/create-register/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/create-register/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/liquio/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/liquio/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/liquio/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/monitoring-and-support/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/monitoring-and-support/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/monitoring-and-support/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/save-data-registry/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/save-data-registry/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/save-data-registry/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/authorize.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/authorize.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/authorize.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/additional-settings.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/additional-settings.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/additional-settings.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/create-event-entry/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/create-event-entry/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/create-event-entry/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/editing-schema-json.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/editing-schema-json.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/editing-schema-json.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/export-registry-key.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/export-registry-key.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/export-registry-key.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/import-from-XLSX.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/import-from-XLSX.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/import-from-XLSX.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/import-registry-key.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/import-registry-key.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/import-registry-key.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/key-settings.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/key-settings.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/key-settings.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/monitoring-and-support.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/monitoring-and-support.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/monitoring-and-support.archive/"/>
+    </url>
+    <url>
+        <loc>https://liquio.github.io/liquio-docs/en/archive/setting-access-rights.archive/</loc>
+        <lastmod>2026-02-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://liquio.github.io/liquio-docs/en/archive/setting-access-rights.archive/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://liquio.github.io/liquio-docs/archive/setting-access-rights.archive/"/>
+    </url>
+</urlset>
